@@ -140,6 +140,7 @@ width: 100%;
 }
 .hero-banner-container .beats-solo{
   font-size: 20px;
+
 }
 .hero-banner-container button{
    border-radius: 15px;
@@ -156,7 +157,7 @@ width: 100%;
 
 .hero-banner-container h3{
   font-size: 4rem;
-  margin-top: 4px;
+  margin-top: 0px;
 }
 .hero-banner-container h1{
   color: white;
@@ -256,7 +257,9 @@ text-align: end;
 }
 .banner-desc .right h3{
   font-weight: 800;
-  font-size: 60px;
+  font-size: 40px;
+  margin-right: 25px;
+
 }
 .banner-desc .right p{
   font-size: 18px;
@@ -625,7 +628,7 @@ margin-top: 160px;
   .hero-banner-image{
     width: 77%;
     height: 62%;
-    top: -2%;
+    top: 25%;
     right: -6%;
   }
   .footer-banner-container{
