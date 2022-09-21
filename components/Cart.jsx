@@ -98,10 +98,17 @@ const Cart = () => {
               <h3>฿{totalPrice}</h3>
             </div>
             <div className="btn-container">
-              <button type="button" className="btn" onClick={handleCheckout}>
-                Pay with Stripe
-              </button>
+          
+
+              <a href="https://lin.ee/FE8eReB" target="_blank" rel="noreferrer">
+          <button className='btn'>BUY</button>
+        </a>
+
+               
             </div>
+         
+   
+            
           </div>
         )}
       </div>
